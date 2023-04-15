@@ -6,14 +6,22 @@
   <img src="https://i.ibb.co/qJj3hds/Untitled-design-2.png" width="330"/>
 </div>
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/brindha-rajeswari-1294ab26b/">
+<!-- <a href="https://www.linkedin.com/in/brindha-rajeswari-1294ab26b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> -->
+  <a href="https://brindha-rajeswari-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/website-EA4C89?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
   </a>
+ 
+<!--   <a href="https://twitter.com/craftswtoddler">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+  <a href="https://github.com/brindharajeswari">
+  <img src="https://img.shields.io/badge/GitHub-372213?style=for-the-badge&logo=github&logoColor=white" alt="git"/>
+  </a>
+   
   <a href="https://www.youtube.com/@CraftswithToddler">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/craftswtoddler">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=brindharajeswari&style=flat-square&color=blue" alt=""/>
@@ -29,16 +37,16 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Full stact web appliction (MERN)
-- 🌱 I’m currently learning MERN, Python, Java
+- 🔭 I’m currently working on Fullstack web appliction (MERN)
+- 🌱 I’m currently learning MERN
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 All of my projects available at https://brindha-rajeswari-portfolio.netlify.app/
 - 📫 How to reach me: brindharajeswari@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Love doing Crafts, Painting, Pencil drawings
+- ⚡ Fun fact: ❤️ doing Crafts, Painting, Pencil drawings
   
-  ---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
   
