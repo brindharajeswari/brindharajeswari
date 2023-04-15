@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>I'm Brindha Rajeswari</h1>
-<h3> A passionate Fullstack web developer(MERN) from Boston, Massachusetts
+<h3> A passionate Fullstack web developer(MERN) from Boston, MA
 <div id="header" align="center">
   <img src="https://i.ibb.co/qJj3hds/Untitled-design-2.png" width="330"/>
 </div>
