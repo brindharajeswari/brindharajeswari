@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-372213?style=for-the-badge&logo=github&logoColor=white" alt="git"/>
   </a>
    
-  <a href="https://www.youtube.com/@CraftswithToddler">
+  <a href="https://www.youtube.com/watch?v=vEjS3pY-3GU">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <br>
