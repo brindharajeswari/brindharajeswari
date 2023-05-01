@@ -35,16 +35,10 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: 
 
-- 🔭 I’m currently working on Fullstack web appliction (MERN)
-- 🌱 I’m currently learning MERN
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 All of my projects available at https://brindha-rajeswari-portfolio.netlify.app/
 - 📫 How to reach me: brindharajeswari@gmail.com
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ❤️ doing Crafts, Painting, Pencil drawings
   
 ---
 
